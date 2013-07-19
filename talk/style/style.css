@@ -1,0 +1,128 @@
+* {
+	margin:0;
+	padding:0;
+}
+
+body{
+	background-color:#ececec;
+	text-align:center;
+	font-family: verdana;
+}
+
+#time{
+	margin: 20px;
+}
+
+#header{
+	margin-top:50px;
+}
+
+#box{
+	margin-top:55px;
+	margin-bottom:55px;
+}
+
+#footer{
+	margin-top:50px;
+	margin-bottom:30px;
+	font: bold 13px verdana;
+}
+
+a:hover{
+	text-decoration:none;	
+}
+
+a:visited{
+	text-decoration:none;	
+}
+a{
+	text-decoration:none;	
+}
+.button {
+	height: 20px;
+	width: 100px;
+	background-color: #4A8BF5;
+	border-radius: 3px;
+	border: 0px;	
+	font: bold 12px verdana;
+	color: white;
+}
+
+#announcement .record td{
+	width:100px;
+}
+#announcement .record .about{
+	width:300px;
+}
+#announcement .record .about div{
+	word-wrap:break-word;
+	width:300px;
+	height:30px;
+	overflow:hidden;
+}
+#announcement .record .location{
+	width:200px;
+}
+#announcement .record .status{
+	width:200px;
+}
+
+#talks .record td{
+	width:100px;
+}
+#talks .record .about{
+	width:300px;
+}
+#talks .record .about div{
+	word-wrap:break-word;
+	width:300px;
+	height:30px;
+	overflow:hidden;
+}
+#talks .record .status{
+	width:200px;
+}
+#talks .record .location{
+	width:200px;
+}
+
+.buttonlink {
+	width:100px;
+	height:20px;
+	background-color: #4A8BF5;
+	border-radius: 3px;
+	border: 0px;	
+	font: bold 12px verdana;
+	color: white;
+	padding-left:30px;
+	padding-right:30px;
+	padding-top:5px;
+	padding-bottom:5px;
+	margin:10px;
+}
+.button {
+	width:100px;
+	height:20px;
+	background-color: #4A8BF5;
+	border-radius: 3px;
+	border: 0px;	
+	font: bold 12px verdana;
+	color: white;
+	margin:10px;
+}
+.buttonlink:hover{
+	background-color: green;
+}
+.rej:hover {
+	background-color: red;
+}
+.acc:hover {
+	background-color: green;
+}
+
+#addform div{
+	margin-top:20px;
+}
+#addform div{
+	margin-top:20px;
+}

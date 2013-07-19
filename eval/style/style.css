@@ -1,0 +1,75 @@
+* {
+	margin:0;
+	padding:0;
+	font-family:verdana;
+}
+body{
+	text-align:center;
+	background-color:#ececec;
+}
+h1{
+	margin-top: 20px;
+	margin-bottom: 20px;
+	background-color:#003366;
+	color:#FFFFFF;
+	padding:20px;
+	font-size:30px;
+}
+.button {
+	height: 20px;
+	background-color: #3399CC;
+	border-radius: 3px;
+	border: 0px;	
+	font: bold 16px verdana;
+	color: white;
+	padding:5px;
+	text-decoration:none;
+	float:left;
+	margin-left:20px;
+	width:200px;
+}
+.button a{
+	color: white;
+	text-decoration:none;
+}
+p{
+	margin:30px auto;	
+}
+#review {
+	font-family:Verdana;
+	font-weight:bold;
+}
+#review a{
+	color:red;
+}
+#footer {
+	margin-top:50px;
+	clear:both;
+}
+#buttoncontainer {
+	padding-top:10px;
+	width:700px;
+	height:30px;
+	margin:auto;
+}
+#reportcontainer {
+	padding-top:10px;
+	width:700px;
+	height:30px;
+	margin:auto;
+}
+#buttontitle {
+	font-weight:bold;
+	font-size:20px;
+	margin-top:35px;
+	margin-bottom:15px;
+	clear:both;
+}
+#reporttitle {
+	font-weight:bold;
+	font-size:20px;
+	margin-bottom:15px;
+}
+#reportcontainer .button{
+	background-color:#7F9F00;
+}

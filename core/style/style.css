@@ -1,0 +1,49 @@
+* {
+	margin:0;
+	padding:0;
+}
+
+body{
+	background-color:#ececec;
+	text-align:center;
+	font-family: verdana;
+}
+
+#announce{
+	margin: 20px;
+}
+
+#header{
+	margin-top:50px;
+}
+
+#box{
+	margin-top:55px;
+	margin-bottom:55px;
+}
+
+#footer{
+	margin-top:50px;
+	margin-bottom:30px;
+	font: bold 13px verdana;
+}
+
+a:hover{
+	text-decoration:none;	
+}
+
+a:visited{
+	text-decoration:none;	
+}
+a{
+	text-decoration:none;	
+}
+.button {
+	height: 20px;
+	width: 100px;
+	background-color: #4A8BF5;
+	border-radius: 3px;
+	border: 0px;	
+	font: bold 12px verdana;
+	color: white;
+}
